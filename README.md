@@ -1,0 +1,1 @@
+This is a rock, paper and scissor game in which computer will choose an random option and the results will be displayed based on click options. We can win, lose, or Tie and scores are tracked at the bottom. https://rockpaper21.ccbp.tech/
