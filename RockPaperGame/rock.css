@@ -1,0 +1,201 @@
+
+        .abc {
+            background-color: #ADD8E6;
+            box-shadow: 0 0 23px;
+            outline-color: black;
+            align-items: center;
+            border-radius: 20px;
+            outline-color: black;
+            margin-left: 80px;
+            width: 750px;
+            height: 500px;
+            padding: 30px;
+            margin-top: 15px;
+        }
+
+        .body {
+            background-color: dimgrey;
+
+
+            border-color: black;
+            font-weight: bold;
+
+        }
+
+        .container {
+            background-color: cadetblue border-style:solid border-color:black;
+            outline-color: black;
+            border-radius: 15px;
+            outline-color: black;
+
+
+        }
+
+        .h22:hover {
+            background-color: gold;
+            box-shadow: 0 0 23px;
+            border-radius: 15px;
+            color: blueviolet;
+            border-color: black;
+        }
+
+        .h22 {
+            color: #800080;
+            font-weight: bold;
+            font-size: 25px;
+        }
+
+        .btns {
+            border-radius: 20px;
+            border-color: black;
+            justify-content: space-around;
+        }
+
+        .btn-success:hover {
+            background-color: white;
+            box-shadow: 0 0 23px;
+            transform: scale(1.05);
+            transition: all 0.3s ease;
+
+            border-radius: 35px;
+            font-size: 50px;
+            font-weight: bold;
+
+
+
+
+        }
+
+        .btn-warning:hover {
+            background-color: red;
+            box-shadow: 0 0 23px;
+            border-radius: 35px;
+            transform: scale(1.05);
+            transition: all 0.3s ease;
+
+            font-size: 30px;
+
+            margin-left: 20px;
+            border-top-color: black;
+        }
+
+        .btn:hover {
+            background-color: grey;
+            box-shadow: 0 0 23px;
+            transform: scale(1.05);
+            transition: all 0.3s ease;
+            border-radius: 35px;
+            font-size: 30px;
+            transform: 0.3em;
+        }
+
+        .h11 {
+            margin-left: 100px;
+            color: indigo;
+            font-weight: bold;
+            font-size: 55px;
+
+        }
+
+        .h11:hover {
+            background-color: gold;
+            box-shadow: 0 0 23px;
+            border-radius: 15px;
+
+        }
+
+        .btns {
+            margin-left: 180px;
+            padding: 10px;
+            border-top-color: cadetblue;
+            border-top-color: black;
+
+        }
+
+        .btn-success {
+            font-size: 30px;
+            border-top-color: black;
+            border-top-color: black;
+            border-style: solid;
+            border-width: 2px;
+        }
+
+        .paragaph {
+            margin-left: 50px;
+
+        }
+
+        .last {
+            display: flex;
+            flex-direction: row;
+            margin-left: 120px;
+            font-size: 25px;
+            padding: 20px;
+
+
+        }
+
+        .btn {
+            width: 130px;
+            padding: 10px;
+            border-radius: 30px;
+            border-style: solid;
+            border-width: 2px;
+            border-color: black;
+
+
+        }
+
+        .btn-success {
+            width: 130px;
+            padding: 10px;
+            border-radius: 30px;
+        }
+
+        .btn-warning {
+            width: 130px;
+            padding: 10px;
+            border-radius: 30px;
+            border-style: solid;
+            border-width: 2px;
+            border-color: black;
+        }
+
+        .hsc {
+            font-size: 40px;
+            margin-top: 0px;
+        }
+
+        .scc {
+            font-size: 40px;
+            margin-top: 0px;
+        }
+
+        .comp {
+            font-size: 40px;
+            margin-top: 0px;
+        }
+
+        .scc:hover {
+            box-shadow: 0 0 0px;
+            transform: scale(1.05);
+            transition: all 0.3s ease;
+            margin-bottom: 30px;
+            font-size: 50px;
+
+
+        }
+
+        .ll:hover {
+            box-shadow: 0 0 0px;
+            transform: scale(1.05);
+            transition: all 0.3s ease;
+            margin-bottom: 30px;
+            font-size: 50px;
+        }
+
+        .ll {
+            font-size: 40px;
+            margin-top: 0px;
+        }
+    
